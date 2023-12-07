@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BaddidasWebsite/static/css/main.d8da1836.css",
+    "main.js": "/BaddidasWebsite/static/js/main.7f472b0e.js",
+    "index.html": "/BaddidasWebsite/index.html",
+    "main.d8da1836.css.map": "/BaddidasWebsite/static/css/main.d8da1836.css.map",
+    "main.7f472b0e.js.map": "/BaddidasWebsite/static/js/main.7f472b0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8da1836.css",
+    "static/js/main.7f472b0e.js"
+  ]
+}
